@@ -35,10 +35,22 @@ multiple tasks are required in this challenge, which are:
 ### Screenshot
 
 The following image shows the web application's appearance and functionality:
-
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
 
 there was not changes to the underlying code so the before and after screenshots of the web page are the same. however, below will be screenshots of the CSS HTML, before and after refactoring.
+
+#### BEFORE SCREENSHOTS
+
+![](./assets/images/before-1.png)
+![](./assets/images/before-2.png)
+![](./assets/images/before-4.png)
+
+#### AFTER SCREEN
+
+![](./assets/images/after-1.png)
+![](./assets/images/after-2.png)
+![](./assets/images/after-3.png)
+![](./assets/images/after-4.png)
 
 ### Links
 
