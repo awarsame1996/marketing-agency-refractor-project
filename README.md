@@ -7,9 +7,9 @@ refract a marketing agency website to use semantic HTML
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
-- [Technologies](#technologies)
+  - [Links](#links)
+  - [Technologies](#technologies)
 
 ## Overview
 
@@ -52,10 +52,22 @@ there was not changes to the underlying code so the before and after screenshots
 ![](./assets/images/after-3.png)
 ![](./assets/images/after-4.png)
 
+## My process
+
+the proccess had many steps, which were as followed:
+
+- first i changed the document title (head element) to something more descriptive.
+- then i started off by identifying the issue, the HTML and CSS needed refactoring without changing the underlying code.
+- so i first started off by changing the HTML to semantic layout, by removing the <divs> and replacing with semantic elements,to make sure the page had a logical structure (title, header, body, footer)
+- Then i checked to see if there was a logical order to headings (h1->h6)
+- i noticed a lot of repeating codes, as seen in the screenshot so the duplicated code was deleted, generic class names where given for them and the css was refactor more clean.
+- Search Engine Optimisation nav link is broken , because it was linked to a id tag that wasn't there. id tag was added.
+
 ### Links
 
 - Github URL: [https://github.com/awarsame1996/marketing-agency-refractor-project](https://github.com/awarsame1996/marketing-agency-refractor-project)
 
-## My process
+### Technologies
 
-first, all images were missing alt tags. so i added descriptive alt tags
+- Semantic HTML5 markup
+- CSS custom properties
