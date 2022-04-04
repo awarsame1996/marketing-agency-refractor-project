@@ -13,35 +13,11 @@ refract a marketing agency website to use semantic HTML
 
 ## Overview
 
-Research list semantic HTML elements
+This task is an on-the-job ticket—meaning that you'll begin with starter code that you need to modify.
 
-- nav
-- aside
-- header
-- footer
-- main
-- section
-- details
-- table
-- forms
-- figure
-- figure caption
-- time
-- article
+Refactoring existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular assignment, a marketing agency has hired me to refactor an existing site to make it more accessible.
 
-Readme should contain:
-
-Link to your deployed GitHub Page
-
-Short Description
-
-Technologies
-
-Screenshots (before and after)
-
-Video description link (optional)
-
-### the-challenge
+### the challenge
 
 multiple tasks are required in this challenge, which are:
 
@@ -58,9 +34,15 @@ multiple tasks are required in this challenge, which are:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+The following image shows the web application's appearance and functionality:
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
+
+there was not changes to the underlying code so the before and after screenshots of the web page are the same. however, below will be screenshots of the CSS HTML, before and after refactoring.
 
 ### Links
+
+- Github URL: [https://github.com/awarsame1996/marketing-agency-refractor-project](https://github.com/awarsame1996/marketing-agency-refractor-project)
 
 ## My process
 
