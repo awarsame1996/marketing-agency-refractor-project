@@ -69,5 +69,5 @@ the proccess had many steps, which were as followed:
 
 ### Technologies
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS
