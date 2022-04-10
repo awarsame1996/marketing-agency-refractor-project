@@ -13,7 +13,7 @@ refract a marketing agency website to use semantic HTML
 
 ## Overview
 
-This task is an on-the-job ticket—meaning that you'll begin with starter code that you need to modify.
+This task is an on-the-job ticket—meaning that i began with starter code that I need to modify.
 
 Refactoring existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular assignment, a marketing agency has hired me to refactor an existing site to make it more accessible.
 
@@ -41,16 +41,11 @@ there was not changes to the underlying code so the before and after screenshots
 
 #### BEFORE SCREENSHOTS
 
-![](./assets/images/before-1.png)
-![](./assets/images/before-2.png)
-![](./assets/images/before-4.png)
+![before screenshot of the web page](./assets/images/before.png.png)
 
 #### AFTER SCREEN
 
-![](./assets/images/after-1.png)
-![](./assets/images/after-2.png)
-![](./assets/images/after-3.png)
-![](./assets/images/after-4.png)
+![after screenshot of the web page](./assets/images/after.png.png)
 
 ## My process
 
@@ -66,6 +61,7 @@ the proccess had many steps, which were as followed:
 ### Links
 
 - Github URL: [https://github.com/awarsame1996/marketing-agency-refractor-project](https://github.com/awarsame1996/marketing-agency-refractor-project)
+- Deployed URL:[https://awarsame1996.github.io/marketing-agency-refractor-project/](https://awarsame1996.github.io/marketing-agency-refractor-project/)
 
 ### Technologies
 
